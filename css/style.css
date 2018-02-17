@@ -34,3 +34,6 @@ h1 {
 }
 
 /*///////// LINKS ////////////*/
+a{
+  text-decoration: none;
+}
