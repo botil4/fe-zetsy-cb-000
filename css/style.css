@@ -34,7 +34,6 @@ h1 {
 }
 
 /*///////// LINKS ////////////*/
-a {
-  background: transparent;
-  text-decoration: none;
+a:-webkit-any-link {
+  cursor: pointer;
 }
