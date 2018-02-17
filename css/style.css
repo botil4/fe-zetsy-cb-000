@@ -41,3 +41,9 @@ header a{
 header a:hover {
   color: rgb(111, 127, 122);
 }
+
+/*///////// MEDIA ////////////*/
+
+#about img {
+  border: 10px;
+}
