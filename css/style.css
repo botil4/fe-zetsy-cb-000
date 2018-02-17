@@ -45,5 +45,5 @@ header a:hover {
 /*///////// MEDIA ////////////*/
 
 #about img {
-  border: 10px;
+  border: 5px rgb(152, 173, 166) solid;
 }
