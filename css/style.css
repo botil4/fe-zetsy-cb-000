@@ -29,13 +29,14 @@ h1 {
   font-size: 5em;
   font-weight: normal;
   font-family: 'Baskerville', serif;
-  color: rgb(152, 173, 166);
+  
   border-bottom: 1px solid #ccc;
 }
 
 /*///////// LINKS ////////////*/
 header a{
   text-decoration: none;
+  color: rgb(152, 173, 166);
 }
 header a:hover {
   color: rgb(111, 127, 122);
