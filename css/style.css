@@ -23,7 +23,7 @@ body {
 /* Write all remaining styles here */
 
 /*///////// STYLES ////////////*/
-header {
+h1 {
   padding: 10px;
   margin: 0 0 5px;
   font-size: 5em;
