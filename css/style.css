@@ -61,6 +61,11 @@ header a:hover {
   color: rgb(111, 127, 122);
 }
 
+#about a {
+  text-decoration: none;
+  color: #1783bb;
+}
+
 #press img:hover {
   border: 5px rgb(111, 127, 122) solid;
 }
