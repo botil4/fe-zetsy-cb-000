@@ -65,6 +65,9 @@ header a:hover {
   text-decoration: none;
   color: #1783bb;
 }
+#about a:hover {
+  text-decoration: underline;
+}
 
 #press img:hover {
   border: 5px rgb(111, 127, 122) solid;
